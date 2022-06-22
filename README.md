@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @KunwooNa
 - 👀 I am an undergraduate student of Seoul Natioal University. 
 - My interest includes deep neural networks and reinforcement learning. 
--
