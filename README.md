@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KunwooNa
-- 👀 I am an undergraduate student of Seoul Natioal University. 
-- My interest includes machine learning including computer vision and reinforcement learning. 
+Hi, I am @KunwooNa. 
+I major Chemistry Education, Mathematics, and Computer Science in Seoul National University. 
+Currently, my interest lies on computer vision and reinforcement learning. 
